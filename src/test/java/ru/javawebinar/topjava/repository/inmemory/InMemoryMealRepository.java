@@ -72,7 +72,9 @@ public class InMemoryMealRepository implements MealRepository {
 
     @Override
     public List<Meal> getAll(int userId) {
-        return filterByPredicate(userId, meal -> true);
+        return filterByPredicate(userId, meal -> {
+            return true;
+        });
     }
 
     private List<Meal> filterByPredicate(int userId, Predicate<Meal> filter) {
