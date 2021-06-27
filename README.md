@@ -1,4 +1,5 @@
-Java Enterprise Online Project 
+Java Enterprise Online Project
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/22a335ea268342d886621d25cd1a4b2f)](https://www.codacy.com/gh/ilyapoplavko/topjava/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ilyapoplavko/topjava&amp;utm_campaign=Badge_Grade)
 ===============================
 Разработка полнофункционального Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей с использованием наиболее популярных инструментов и технологий Java: Maven, Spring MVC, Security, JPA(Hibernate), REST(Jackson), Bootstrap (css,js), datatables, jQuery + plugins, Java 8 Stream and Time API и хранением в базах данных Postgresql и HSQLDB.
 
